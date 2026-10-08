@@ -1,0 +1,28 @@
+{
+  "name": "avaliacaonodeapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alissondsc/AvaliacaoNodeAPI.git"
+  },
+  "keywords": [],
+  "author": "alisson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alissondsc/AvaliacaoNodeAPI/issues"
+  },
+  "homepage": "https://github.com/alissondsc/AvaliacaoNodeAPI#readme"
+}
